@@ -1,0 +1,6 @@
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+KrylovKit = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+QuantumOptics = "6e0679c1-51ea-5a7c-ac74-d61b76210b0c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
