@@ -1,6 +1,6 @@
 # Example code for the paper *Correlation functions for realistic continuous quantum measurement*
 
-This repository gives an example Julia implementation of the numerical method proposed in the paper *Correlation functions for realistic continuous quantum measurement*.
+This repository gives an example Julia implementation of the numerical method proposed in the paper *Correlation functions for realistic continuous quantum measurement* (https://arxiv.org/abs/2212.00176).
 
 The code to compute the two-point correlation function of the signal integrated on constant overlapping windows is self-contained in the [`binned-theory.jl`](./binned-theory.jl) script. The Jupyter notebook [`leaky-cavity.ipynb`](./leaky-cavity.ipynb) gives an example on a toy model (a leaky cavity monitored by a diffusive SME in a rotating frame, see figure below).
 
